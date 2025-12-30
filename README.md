@@ -64,8 +64,8 @@
 
 <div align="center">
   <img src="./profile/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Kavin-Venkatesh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kavin-Venkatesh&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" height="150" alt="top languages"  />
+  <img src="https://github-profile-trophy-fast.vercel.app?username=Kavin-Venkatesh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="top languages"  />
 
 </div>
 
