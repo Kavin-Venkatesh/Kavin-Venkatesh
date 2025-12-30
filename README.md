@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kavin-Venkatesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Kavin-Venkatesh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kavin-Venkatesh&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" height="150" alt="top languages"  />
 
