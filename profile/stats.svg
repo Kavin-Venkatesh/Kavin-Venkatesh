@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kavin Venkatesh's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits in 2025 : 72, Total PRs: 18, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits in 2026 : 72, Total PRs: 18, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -163,7 +163,7 @@
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
-      <text class="stat  bold"  y="12.5">Total Commits (2025):</text>
+      <text class="stat  bold"  y="12.5">Total Commits (2026):</text>
       <text
         class="stat  bold"
         x="199.01"
